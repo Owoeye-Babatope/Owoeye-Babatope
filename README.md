@@ -42,7 +42,7 @@ Here are some of the projects that showcase my skills and interests:
 
 I primarily work with:
 
--   **Languages:** Python, SQL, HTML
+-   **Languages:** Python, SQL, HTML, DAX
 
 -   **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras (inferred from AI/ML projects)
 
@@ -55,6 +55,6 @@ I'm always open to collaborating on interesting data projects or discussing new 
 
 -   **GitHub:** [Owoeye-Babatope](https://github.com/Owoeye-Babatope "null")
 
--   **LinkedIn:** [Your LinkedIn Profile URL]
+-   **LinkedIn:** [Owoeye Babatope](https://www.linkedin.com/in/owoeyebabatopeb/)
 
 Thanks for visiting my profile!
