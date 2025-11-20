@@ -19,21 +19,21 @@ I specialize in the full data lifecycle, from data collection and cleaning to ad
 
 Here are some of the projects that showcase my skills and interests:
 
--   [**Artificial-Intelligence-with-Python-Image-classifier-**](https://www.google.com/search?q=https://github.com/Owoeye-Babatope/Artificial-Intelligence-with-Python-Image-classifier- "null")
+-   [**Artificial-Intelligence-with-Python-Image-classifier-**]()
 
-    -   *Description:* An AI project utilizing Convolutional Neural Networks (CNNs) in Python for robust image classification, demonstrating practical deep learning application.
+    -   *Description:* An AI project utilising Convolutional Neural Networks (CNNs) in Python for robust image classification, demonstrating a practical deep learning application.
 
--   [**AIBL-data-Analysis**](https://www.google.com/search?q=https://github.com/Owoeye-Babatope/AIBL-data-Analysis "null")
+-   [**AIBL-data-Analysis**]()
 
     -   *Description:* In-depth exploratory data analysis (EDA) on the AIBL dataset, revealing key demographic and clinical insights using Python and Jupyter Notebook.
 
--   [**Dementia-Classification**](https://www.google.com/search?q=https://github.com/Owoeye-Babatope/Dementia-Classification "null")
+-   [**Dementia-Classification**]()
 
     -   *Description:* Developed and evaluated machine learning models (e.g., Logistic Regression, SVM) for the classification of dementia, demonstrating practical application of ML in healthcare data.
 
--   [**SQL_NAME_PROCESSING**](https://www.google.com/search?q=https://github.com/Owoeye-Babatope/SQL_NAME-PROCESSING "null")
+-   [**SQL_NAME_PROCESSING**]()
 
-    -   *Description:* A project showcasing advanced SQL techniques for efficient name data manipulation and cleaning, including string parsing, standardization, and duplicate detection.
+    -   *Description:* A project showcasing advanced SQL techniques for efficient name data manipulation and cleaning, including string parsing, standardisation, and duplicate detection.
 
 *(Click on the project names to explore the repositories!)*
 
